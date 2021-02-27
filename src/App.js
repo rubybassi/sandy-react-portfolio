@@ -1,4 +1,3 @@
-import "./App.css";
 import Container from "react-bootstrap/Container";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import React from "react";
@@ -12,7 +11,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <Container>
+    <Container fluid className="p-0">
       <Router>
         <Header />
         <Switch>

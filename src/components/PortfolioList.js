@@ -1,10 +1,38 @@
-import React from "react";
+import { portfolios } from "../assets/Data";
+//import { useState, useEffect } from "react";
+import Button from "react-bootstrap/Button";
 
 const PortfolioList = () => {
+ // const [data, setData] = useState([]);
+
+ // useEffect(() => {
+ //   setData(portfolios);
+ // }, [])
+
   return (
-    <div>
-      <h1>This is where the portfolio array will be.</h1>
-    </div>
+    <>
+      {portfolios.map((portfolio) => (
+        <div key={portfolio.id} className="col-lg-4" id="portfolio">
+          <div className="card mb-3">
+            <img
+              className="card-img-top img-fluid"
+              src={portfolio.image}
+              alt={portfolio.altTag}
+            />
+            <article className="card-body">
+              <h5 className="card-title">{portfolio.name}</h5>
+              <p className="card-text">{portfolio.description}</p>
+              <Button href={portfolio.link1} variant="outline-dark" size="sm">
+                {portfolio.link1BtnName}
+              </Button>{" "}
+              <Button href={portfolio.link2} variant="outline-dark" size="sm">
+                {portfolio.link2BtnName}
+              </Button>
+            </article>
+          </div>
+        </div>
+      ))}
+    </>
   );
 };
 
