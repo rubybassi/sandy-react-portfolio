@@ -1,4 +1,3 @@
-//import HeroPic from "../assets/images/me.png";
 import { user } from "../assets/Data";
 
 const Home = () => (

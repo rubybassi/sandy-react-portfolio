@@ -12,6 +12,10 @@ const user = {
   profilePic: sandyPic,
   jobTitle: "Fullstack Developer",
   altTag: "woman taking selfy in Jeruselam",
+  email: "thecodingfiles@gmail.com",
+  mobile: "07939 508281",
+  github: "rubybassi",
+  linkedin: "https://www.linkedin.com/in/sandeep-bassi-84148142/",
   p1: "Hi, I'm Sandy – a junior fullstack web developer.",
   p2:
     "I'm currently on an exciting journey with the University of Birmingham Bootcamp and i'm loving every minute of it!",

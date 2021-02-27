@@ -1,12 +1,12 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
 import Navbar from "react-bootstrap/Navbar";
 
 const Header = () => (
     <Navbar expand="lg" variant="light" bg="light">
-      <NavLink exact to="/" className="nav-link">Home</NavLink>
-      <NavLink exact to="/Portfolio" className="nav-link" activeClassName="selected">Portfolio</NavLink>
-      <NavLink exact to="/Contact" className="nav-link">Contact</NavLink>
+      <Link exact to="/" className="nav-link">Home</Link>
+      <Link exact to="/Portfolio" className="nav-link">Portfolio</Link>
+      <Link exact to="/Contact" className="nav-link">Contact</Link>
     </Navbar>
 );
 
