@@ -2,17 +2,17 @@ import PortfolioList from "../components/PortfolioList";
 
 const Portfolio = () => {
   return (
-    <main className="container mt-5 bg-light">
-      <section>
-        <h1 className="pt-3">My Work</h1>
-        <hr className="pb-1" />
+    <div className="portfolio">
+      <main className="container">
+        <section className="row">
+          <h3 className="col-12 connect" style={{ fontSize: "260%" }}>My Work</h3>
+          <div className="line2"></div>
+        </section>
         <div className="row">
-          <div className="row">
-            <PortfolioList />
-          </div>
+          <PortfolioList />
         </div>
-      </section>
-    </main>
+      </main>
+    </div>
   );
 };
 

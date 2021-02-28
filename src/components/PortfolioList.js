@@ -1,14 +1,7 @@
 import { portfolios } from "../assets/Data";
-//import { useState, useEffect } from "react";
 import Button from "react-bootstrap/Button";
 
 const PortfolioList = () => {
- // const [data, setData] = useState([]);
-
- // useEffect(() => {
- //   setData(portfolios);
- // }, [])
-
   return (
     <>
       {portfolios.map((portfolio) => (

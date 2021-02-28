@@ -9,36 +9,26 @@ body {
   padding:0;
 }
 
-footer {
-  position: fixed;
-  bottom: 0;
-  height: 60px;
-  color: white;
-  font-size: smaller;
+h1, h3, h4, h5 {
+  font-family: 'Playfair Display', serif;
+}
+
+h2, p {
+  font-family: 'Montserrat', sans-serif;
 }
 
 main {
   margin-bottom: 60px;
 }
 
-h2 {
-  padding: 10px 0 20px 0;
-}
-
-#icons a {
-  color: black;
-  padding-right: 50px; 
-}
-
-.fas, .fab {
-  padding-right: 15px; 
-  color: #7c5a9d;
-}
-
-h1, h2, h3, h4 {
-  font-family: 'Montserrat', sans-serif;
-}
-
 #portfolio:last-of-type  {
   margin-bottom: 100px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  height: 60px;
+  color: white;
+  font-size: smaller;
 }

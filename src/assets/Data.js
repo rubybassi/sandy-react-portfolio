@@ -6,10 +6,12 @@ import readmePc from "./images/readme.png";
 import spaceDashPic from "./images/space-dash-small.png";
 import weatherPic from "./images/weather-small.png";
 import passwordPic from "./images/password-small.png";
+import pixel from "./images/pixel-me.jpg";
 
 const user = {
   name: "Sandeep Ruby Bassi",
   profilePic: sandyPic,
+  avatar: pixel,
   jobTitle: "Fullstack Developer",
   altTag: "woman taking selfy in Jeruselam",
   email: "thecodingfiles@gmail.com",
