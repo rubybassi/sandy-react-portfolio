@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/sandy-react-portfolio/static/css/main.ae5f25b8.chunk.css",
-    "main.js": "/sandy-react-portfolio/static/js/main.82a4fc4b.chunk.js",
-    "main.js.map": "/sandy-react-portfolio/static/js/main.82a4fc4b.chunk.js.map",
+    "main.js": "/sandy-react-portfolio/static/js/main.232731c9.chunk.js",
+    "main.js.map": "/sandy-react-portfolio/static/js/main.232731c9.chunk.js.map",
     "runtime-main.js": "/sandy-react-portfolio/static/js/runtime-main.c3d1b660.js",
     "runtime-main.js.map": "/sandy-react-portfolio/static/js/runtime-main.c3d1b660.js.map",
     "static/css/2.150d169a.chunk.css": "/sandy-react-portfolio/static/css/2.150d169a.chunk.css",
-    "static/js/2.51e52cec.chunk.js": "/sandy-react-portfolio/static/js/2.51e52cec.chunk.js",
-    "static/js/2.51e52cec.chunk.js.map": "/sandy-react-portfolio/static/js/2.51e52cec.chunk.js.map",
+    "static/js/2.72695c64.chunk.js": "/sandy-react-portfolio/static/js/2.72695c64.chunk.js",
+    "static/js/2.72695c64.chunk.js.map": "/sandy-react-portfolio/static/js/2.72695c64.chunk.js.map",
     "static/js/3.d7aec3b5.chunk.js": "/sandy-react-portfolio/static/js/3.d7aec3b5.chunk.js",
     "static/js/3.d7aec3b5.chunk.js.map": "/sandy-react-portfolio/static/js/3.d7aec3b5.chunk.js.map",
     "index.html": "/sandy-react-portfolio/index.html",
     "static/css/2.150d169a.chunk.css.map": "/sandy-react-portfolio/static/css/2.150d169a.chunk.css.map",
     "static/css/main.ae5f25b8.chunk.css.map": "/sandy-react-portfolio/static/css/main.ae5f25b8.chunk.css.map",
-    "static/js/2.51e52cec.chunk.js.LICENSE.txt": "/sandy-react-portfolio/static/js/2.51e52cec.chunk.js.LICENSE.txt",
+    "static/js/2.72695c64.chunk.js.LICENSE.txt": "/sandy-react-portfolio/static/js/2.72695c64.chunk.js.LICENSE.txt",
     "static/media/app.css": "/sandy-react-portfolio/static/media/web.ffc076a9.png",
     "static/media/me.87be8e2a.png": "/sandy-react-portfolio/static/media/me.87be8e2a.png",
     "static/media/note-taker.b495b92f.png": "/sandy-react-portfolio/static/media/note-taker.b495b92f.png",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.c3d1b660.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.51e52cec.chunk.js",
+    "static/js/2.72695c64.chunk.js",
     "static/css/main.ae5f25b8.chunk.css",
-    "static/js/main.82a4fc4b.chunk.js"
+    "static/js/main.232731c9.chunk.js"
   ]
 }
