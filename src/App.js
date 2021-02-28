@@ -11,7 +11,7 @@ import "./app.css";
 function App() {
   return (
     <Container fluid className="p-0">
-      <HashRouter basename='/'>
+      <Router basename='/'>
         <Header />
         <Switch>
           <Route exact path="/" component={Home} />
@@ -19,7 +19,7 @@ function App() {
           <Route path="/contact" component={Contact} />
         </Switch>
         <Footer />
-      </HashRouter>
+      </Router>
     </Container>
   );
 }
