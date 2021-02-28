@@ -25,6 +25,10 @@ main {
   margin-bottom: 100px;
 }
 
+.socials, .skills-wrapper {
+  padding-bottom: 100px;
+}
+
 footer {
   position: fixed;
   bottom: 0;

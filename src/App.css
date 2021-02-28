@@ -9,15 +9,14 @@
 .bg2{
   background-image: url('./assets/images/web.png');
   background-size: cover;
-  background-repeat: no-repeat;
-  height: 100vh;
   background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 100vh;
+
 }
 
 .bg3{
-  background-image: url('./assets/images/shape.png');
-  background-size: cover;
-  background-repeat: no-repeat;
   height: 50vh;
   text-align: center;
   background-color: #dedaf3;
@@ -75,22 +74,11 @@ margin-bottom: 10px;
 div .hero-text{
   position: fixed;
   background-color: #ffacb0 ;
-  top: 50%;
+  top: 45%;
   padding-left: 50px;
   z-index: 1;
-  width: 30%;
+  width: 50%;
 }
-
-/*
-.nav {
-  height: 60px;
-  background-color: #ffacb0;
-  z-index: 2;
-  display: flex;
-  justify-content: flex-end;
-  position: fixed;
-  top: 0;
-} */
 
 .nav-wrapper {
   position: fixed;
@@ -118,9 +106,22 @@ div .hero-text{
   color:#7c5a9d;
 }
 
-/*
-ece5f5   
-dedaf3
-b786fb
-c0c1ed
-b786fb lilac */
+@media only screen and (max-width: 800px) {
+  div .hero-text {
+    position: unset;
+    margin: auto 0;
+    padding: 50px;
+    width: 50%;
+  }
+
+  .bg2{
+    background-image: url('./assets/images/web-mobile.png');
+  }
+}
+
+@media (max-width: 575.98px) { 
+  .bg, .bg3 {
+    height: 100vh;
+  }
+
+ }
