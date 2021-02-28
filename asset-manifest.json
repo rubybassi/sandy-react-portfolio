@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/sandy-react-portfolio/static/css/main.ae5f25b8.chunk.css",
+    "main.js": "/sandy-react-portfolio/static/js/main.82a4fc4b.chunk.js",
+    "main.js.map": "/sandy-react-portfolio/static/js/main.82a4fc4b.chunk.js.map",
+    "runtime-main.js": "/sandy-react-portfolio/static/js/runtime-main.c3d1b660.js",
+    "runtime-main.js.map": "/sandy-react-portfolio/static/js/runtime-main.c3d1b660.js.map",
+    "static/css/2.150d169a.chunk.css": "/sandy-react-portfolio/static/css/2.150d169a.chunk.css",
+    "static/js/2.51e52cec.chunk.js": "/sandy-react-portfolio/static/js/2.51e52cec.chunk.js",
+    "static/js/2.51e52cec.chunk.js.map": "/sandy-react-portfolio/static/js/2.51e52cec.chunk.js.map",
+    "static/js/3.d7aec3b5.chunk.js": "/sandy-react-portfolio/static/js/3.d7aec3b5.chunk.js",
+    "static/js/3.d7aec3b5.chunk.js.map": "/sandy-react-portfolio/static/js/3.d7aec3b5.chunk.js.map",
+    "index.html": "/sandy-react-portfolio/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/sandy-react-portfolio/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.ae5f25b8.chunk.css.map": "/sandy-react-portfolio/static/css/main.ae5f25b8.chunk.css.map",
+    "static/js/2.51e52cec.chunk.js.LICENSE.txt": "/sandy-react-portfolio/static/js/2.51e52cec.chunk.js.LICENSE.txt",
+    "static/media/app.css": "/sandy-react-portfolio/static/media/web.ffc076a9.png",
+    "static/media/me.87be8e2a.png": "/sandy-react-portfolio/static/media/me.87be8e2a.png",
+    "static/media/note-taker.b495b92f.png": "/sandy-react-portfolio/static/media/note-taker.b495b92f.png",
+    "static/media/password-small.cc61c8f5.png": "/sandy-react-portfolio/static/media/password-small.cc61c8f5.png",
+    "static/media/pixel-me.92bf3869.jpg": "/sandy-react-portfolio/static/media/pixel-me.92bf3869.jpg",
+    "static/media/readme.2cc4d535.png": "/sandy-react-portfolio/static/media/readme.2cc4d535.png",
+    "static/media/space-dash-small.3166e8dc.png": "/sandy-react-portfolio/static/media/space-dash-small.3166e8dc.png",
+    "static/media/sunaya.b339e9d3.png": "/sandy-react-portfolio/static/media/sunaya.b339e9d3.png",
+    "static/media/team-generator.eb532afe.png": "/sandy-react-portfolio/static/media/team-generator.eb532afe.png",
+    "static/media/weather-small.9ee7b641.png": "/sandy-react-portfolio/static/media/weather-small.9ee7b641.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3d1b660.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.51e52cec.chunk.js",
+    "static/css/main.ae5f25b8.chunk.css",
+    "static/js/main.82a4fc4b.chunk.js"
+  ]
+}
