@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sandy-react-portfolio/static/css/main.ae5f25b8.chunk.css",
+    "main.css": "/sandy-react-portfolio/static/css/main.b8c72cbf.chunk.css",
     "main.js": "/sandy-react-portfolio/static/js/main.bc4485b2.chunk.js",
     "main.js.map": "/sandy-react-portfolio/static/js/main.bc4485b2.chunk.js.map",
     "runtime-main.js": "/sandy-react-portfolio/static/js/runtime-main.c3d1b660.js",
@@ -12,7 +12,7 @@
     "static/js/3.d7aec3b5.chunk.js.map": "/sandy-react-portfolio/static/js/3.d7aec3b5.chunk.js.map",
     "index.html": "/sandy-react-portfolio/index.html",
     "static/css/2.150d169a.chunk.css.map": "/sandy-react-portfolio/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.ae5f25b8.chunk.css.map": "/sandy-react-portfolio/static/css/main.ae5f25b8.chunk.css.map",
+    "static/css/main.b8c72cbf.chunk.css.map": "/sandy-react-portfolio/static/css/main.b8c72cbf.chunk.css.map",
     "static/js/2.72695c64.chunk.js.LICENSE.txt": "/sandy-react-portfolio/static/js/2.72695c64.chunk.js.LICENSE.txt",
     "static/media/app.css": "/sandy-react-portfolio/static/media/web.ffc076a9.png",
     "static/media/me.87be8e2a.png": "/sandy-react-portfolio/static/media/me.87be8e2a.png",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.c3d1b660.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.72695c64.chunk.js",
-    "static/css/main.ae5f25b8.chunk.css",
+    "static/css/main.b8c72cbf.chunk.css",
     "static/js/main.bc4485b2.chunk.js"
   ]
 }
