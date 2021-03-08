@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sandy-react-portfolio/static/css/main.b8c72cbf.chunk.css",
-    "main.js": "/sandy-react-portfolio/static/js/main.bc4485b2.chunk.js",
-    "main.js.map": "/sandy-react-portfolio/static/js/main.bc4485b2.chunk.js.map",
+    "main.js": "/sandy-react-portfolio/static/js/main.6da1b39f.chunk.js",
+    "main.js.map": "/sandy-react-portfolio/static/js/main.6da1b39f.chunk.js.map",
     "runtime-main.js": "/sandy-react-portfolio/static/js/runtime-main.c3d1b660.js",
     "runtime-main.js.map": "/sandy-react-portfolio/static/js/runtime-main.c3d1b660.js.map",
     "static/css/2.150d169a.chunk.css": "/sandy-react-portfolio/static/css/2.150d169a.chunk.css",
@@ -15,6 +15,7 @@
     "static/css/main.b8c72cbf.chunk.css.map": "/sandy-react-portfolio/static/css/main.b8c72cbf.chunk.css.map",
     "static/js/2.72695c64.chunk.js.LICENSE.txt": "/sandy-react-portfolio/static/js/2.72695c64.chunk.js.LICENSE.txt",
     "static/media/app.css": "/sandy-react-portfolio/static/media/web.ffc076a9.png",
+    "static/media/google-books.53d9a35a.png": "/sandy-react-portfolio/static/media/google-books.53d9a35a.png",
     "static/media/me.87be8e2a.png": "/sandy-react-portfolio/static/media/me.87be8e2a.png",
     "static/media/note-taker.b495b92f.png": "/sandy-react-portfolio/static/media/note-taker.b495b92f.png",
     "static/media/password-small.cc61c8f5.png": "/sandy-react-portfolio/static/media/password-small.cc61c8f5.png",
@@ -30,6 +31,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.72695c64.chunk.js",
     "static/css/main.b8c72cbf.chunk.css",
-    "static/js/main.bc4485b2.chunk.js"
+    "static/js/main.6da1b39f.chunk.js"
   ]
 }
