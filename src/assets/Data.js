@@ -7,6 +7,7 @@ import spaceDashPic from "./images/space-dash-small.png";
 import weatherPic from "./images/weather-small.png";
 import passwordPic from "./images/password-small.png";
 import pixel from "./images/pixel-me.jpg";
+import books from "./images/google-books.png";
 
 const user = {
   name: "Sandeep Ruby Bassi",
@@ -28,6 +29,19 @@ const user = {
 };
 
 const portfolios = [
+  {
+    id: 8,
+    image: books,
+    altTag: "preview of google books app",
+    language: "HTML",
+    name: "Show Me the Books",
+    description:
+      "A simple book search UI MERN application using Google Books API.",
+    link1: "https://showmethebooksapp.herokuapp.com/",
+    link1BtnName: "Heroku page",
+    link2: "https://github.com/rubybassi/show-me-the-books",
+    link2BtnName: "Github repo",
+  },
   {
     id: 1,
     image: sanayaPic,
