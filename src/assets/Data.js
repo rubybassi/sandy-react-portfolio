@@ -8,6 +8,7 @@ import weatherPic from "./images/weather-small.png";
 import passwordPic from "./images/password-small.png";
 import pixel from "./images/pixel-me.jpg";
 import books from "./images/google-books.png";
+import glowgo from "./images/glowgo.png";
 
 const user = {
   name: "Sandeep Ruby Bassi",
@@ -29,6 +30,19 @@ const user = {
 };
 
 const portfolios = [
+  {
+    id: 9,
+    image: glowgo,
+    altTag: "preview of glowgo app",
+    language: "JavaScript",
+    name: "Glowgo",
+    description:
+      "A clean, stylish, responsive MERN eCommerce web store.",
+    link1: "https://glowgo.herokuapp.com/",
+    link1BtnName: "Heroku page",
+    link2: "https://github.com/rubybassi/glowgo-store",
+    link2BtnName: "Github repo",
+  },
   {
     id: 8,
     image: books,
