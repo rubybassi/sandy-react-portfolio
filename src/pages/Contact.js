@@ -61,7 +61,7 @@ const Contact = () => (
           </div>
           <div className="col">
             <span><FontAwesomeIcon icon={faDownload} /></span>
-            <a href="sandeep-bassi-CV.pdf" download><p> Download CV {user.cv}</p></a>
+            <a href="Sandeep-Bassi-CV-Fullstack-Web-Developer.pdf" download><p> Download CV {user.cv}</p></a>
           </div>
         </div>
     </div>  
